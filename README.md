@@ -1,1 +1,1 @@
-My first readme
+Somto tries to be brainy
